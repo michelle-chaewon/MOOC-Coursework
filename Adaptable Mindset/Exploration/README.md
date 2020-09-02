@@ -1,4 +1,7 @@
-### Question 1
+### What is Digital Transformation?
+Digital transformation is the process of thinking outside of the box and growing your online presence. It enables local actions to be amplified to global levels. While the misinformation is a critical issue to be addressed in the digital era, high accessibility of online information promotes global communication.
+
+### Exercise 1
 Find and share three pieces from art, philosophy, games, movies or tech, that you find inspiring and which have helped you to change the way you see and experience the world.
 
 #### Google Glass for children with autism
@@ -13,7 +16,7 @@ Lallaby: a song about the one in the dream, not a person who is dreaming
 All of the arts, including Paprika and Lullaby, that discuss the topic of "dream" have made me question: if a recurring nightmare can be reshaped in virtual environment, 
 how effectively would it alter one's perspective? Can this approach also apply to help people cope with traumatic memories or phobia?
 
-### Question 2
+### Exercise 2
 As you commute or move around the city within different spaces during the day, look for weird relations between objects. Pay attention to things like faces, letters, connections that may emerge where they were not meant to be. Look for all the things that go together that were not intended to go together. 
 Document them and train your mind in seeing new connections.  
 
