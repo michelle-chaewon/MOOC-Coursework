@@ -1,7 +1,8 @@
 # Syllabus  
 [Course in Progress - Updates Coming Soon]  
 Expected date of completion: before 11-25-2020  
-Course certificates and coding assignments will be uploaded here upon the completion of courses.  
+Course certificates will be uploaded here upon the completion of courses. According to Coursera homework policy, coding assignments will not be uploaded, but the 
+final course project will be available by 11-25-2020.  
 <br>
 Instructor: Andrew Ng (Stanford University)  
 ### Week 1  
